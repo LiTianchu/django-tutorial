@@ -1,0 +1,7 @@
+[tool.pyright]
+venvPath = "/home/tianchu/miniconda3/bin"
+venv = "base"
+typeCheckingMode = "basic"
+
+[tool.isort]
+profile = "black"
